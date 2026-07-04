@@ -32,6 +32,7 @@
 - 🚂 Operations Research · Transportation
 - 🤖 Tinkering with AI agents (OpenClaw + MCP)
 - 🌐 Playing with browser automation
+- 💻 Using Claude Code as daily driver
 
 </p>
 
