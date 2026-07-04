@@ -25,21 +25,13 @@
 </p>
 </div>
 
-<div align='center'>
-<h2 align="left">📊 GitHub Stats:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CosmicfreshOrange&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="150">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicfreshOrange&layout=compact&theme=transparent&hide_title=true" height="150">
-</p>
-</div>
-
-<h2 align="left">📖 Currently Learning:</h2>
+<h2 align="left">📖 Currently learning (still a beginner 😅):</h2>
 <p align="left">
 
-- 📐 Mathematics (Calculus + Linear Algebra + Probability)
-- 🚂 Operations Research — Transportation Optimization
-- 🤖 AI Agent Development — OpenClaw + MCP
-- 🌐 Web Automation — Playwright + Browser Harness
+- 📐 Math for grad school entrance exam
+- 🚂 Operations Research · Transportation
+- 🤖 Tinkering with AI agents (OpenClaw + MCP)
+- 🌐 Playing with browser automation
 
 </p>
 
