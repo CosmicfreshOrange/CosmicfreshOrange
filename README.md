@@ -25,6 +25,14 @@
 </p>
 </div>
 
+<div align='center'>
+<h2 align="left">📊 GitHub Stats:</h2>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CosmicfreshOrange&show_icons=true&theme=transparent&hide_title=true&rank_icon=github" height="150">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CosmicfreshOrange&layout=compact&theme=transparent&hide_title=true" height="150">
+</p>
+</div>
+
 <h2 align="left">📖 Currently Learning:</h2>
 <p align="left">
 
