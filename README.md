@@ -35,6 +35,14 @@
 
 </p>
 
+<h2 align="left">🔗 Links:</h2>
+<p align="left">
+
+- 📝 Blog: [cosmicfreshorange.github.io](https://cosmicfreshorange.github.io/)
+- 🐙 GitHub: [@CosmicfreshOrange](https://github.com/CosmicfreshOrange)
+
+</p>
+
 [home]: https://github.com/CosmicfreshOrange
 [header]: https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=140&text=CosmicfreshOrange&fontSize=40&fontFamily=sans&textColor=%23FFFFFF&border=5px%20solid%20%23000000&borderRadius=20&shadow=0px%200px%2010px%20rgba(0,0,0,0.5)
 [moe-counter]: https://count.getloli.com/get/@CosmicfreshOrange?theme=rule34
